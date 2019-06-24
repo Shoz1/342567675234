@@ -1,0 +1,10 @@
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.csprojAssemblyReference.cache
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.Form1.resources
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.Properties.Resources.resources
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.csproj.GenerateResource.cache
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.csproj.CoreCompileInputs.cache
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\bin\Debug\C_Sharp_4.exe.config
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\bin\Debug\C_Sharp_4.exe
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\bin\Debug\C_Sharp_4.pdb
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.exe
+C:\Users\Jenya\Desktop\C_Sharp_4-master\C_Sharp_4\obj\Debug\C_Sharp_4.pdb
